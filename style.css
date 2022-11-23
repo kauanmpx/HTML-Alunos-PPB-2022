@@ -2,9 +2,25 @@ body{
 	background: #CCCCCC;
 }
 
-P {
-	text-align: center;
+#banner {
+	width: 100%;
 }
+
+h1{
+	text-align: center;
+	height: 150px;
+	border: 10px solid #000000;
+}
+
+#missao{
+	font-size: 20px
+}
+
+p{
+	text-align: center;
+
+}
+
 em  strong{
-		color: red;
+	color: red;
 }
